@@ -24,7 +24,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '+mac2=hc&07=t-(ah1l(fp$z^z!hif-mu!gq6@$9r4^p+z*k*9'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['calm-shelf-49386.herokuapp.com']
 
